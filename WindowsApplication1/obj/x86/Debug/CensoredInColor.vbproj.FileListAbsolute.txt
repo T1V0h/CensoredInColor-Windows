@@ -1,0 +1,50 @@
+C:\Users\tivo\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.censoredincolor.resources
+C:\Users\tivo\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\tivo\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\CensoredInColor.vbproj.GenerateResource.Cache
+C:\Users\tivo\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\tivo\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\tivo\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\tivo\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\tivo\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\tivo\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\tivo\Downloads\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\tivo\Downloads\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\tivo\Downloads\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\tivo\Downloads\CensoredInColor\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\tivo\Downloads\CensoredInColor\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\tivo\Downloads\CensoredInColor\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\tivo\Downloads\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.censoredincolor.resources
+C:\Users\tivo\Downloads\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\tivo\Downloads\CensoredInColor\WindowsApplication1\obj\x86\Debug\CensoredInColor.vbproj.GenerateResource.Cache
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.censoredincolor.resources
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\WindowsApplication1\obj\x86\Debug\CensoredInColor.vbproj.GenerateResource.Cache
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\CensoredInColor\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\CensoredInColor\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\CensoredInColor\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.censoredincolor.resources
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\tivo\Desktop\CensoredInColor\CensoredInColor\CensoredInColor\WindowsApplication1\obj\x86\Debug\CensoredInColor.vbproj.GenerateResource.Cache
+C:\Users\tivo\Desktop\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\tivo\Desktop\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\tivo\Desktop\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\tivo\Desktop\CensoredInColor\WindowsApplication1\bin\Debug\WindowsApplication1.exe.manifest
+C:\Users\tivo\Desktop\CensoredInColor\WindowsApplication1\bin\Debug\WindowsApplication1.application
+C:\Users\tivo\Desktop\CensoredInColor\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\tivo\Desktop\CensoredInColor\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\tivo\Desktop\CensoredInColor\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\tivo\Desktop\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.censoredincolor.resources
+C:\Users\tivo\Desktop\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\tivo\Desktop\CensoredInColor\WindowsApplication1\obj\x86\Debug\CensoredInColor.vbproj.GenerateResource.Cache
+C:\Users\tivo\Desktop\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.TrustInfo.xml
+C:\Users\tivo\Desktop\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe.manifest
+C:\Users\tivo\Desktop\CensoredInColor\WindowsApplication1\obj\x86\Debug\WindowsApplication1.application
